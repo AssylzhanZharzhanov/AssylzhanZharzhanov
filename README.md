@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1 align="left">Assylzhan Zharzhan (@zharzhanov) 👋</h1>
 
+- 💻 Core Stack: **Go, JS, Python**. Mainly focused on Backend & DevOps.
+- 👨‍💻 Linkedin | Instagram | Medium: **@zharzhanov**
+- 
 <!--
 **AssylzhanZharzhanov/AssylzhanZharzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
