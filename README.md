@@ -1,7 +1,8 @@
 <h1 align="left">Assylzhan Zharzhan (@zharzhanov) 👋</h1>
 
 - 💻 Stack: **Go, Python**. Mostly focused on Backend & DevOps.
-- 👨‍💻 Linkedin | Instagram: **@zharzhanov**
+- 👨‍💻 Linkedin: **@assylzhan-zharzhanov**
+<!-- - Instagram: **@zharzhanov** -->
 
 <!--
 **AssylzhanZharzhanov/AssylzhanZharzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
