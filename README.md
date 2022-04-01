@@ -3,7 +3,7 @@
 - 💻 Stack: **Go, Python**. Mostly focused on Backend & DevOps.
 - 👨‍💻 Linkedin: **@assylzhan-zharzhanov**
 - 📸 Instagram: **@zharzhanov**
-- ❤️ Girlfriend: **@dearbissalina**
+- ❤️ Fall in love with: **@dearbissalina**
 
 <!--
 **AssylzhanZharzhanov/AssylzhanZharzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
