@@ -1,4 +1,4 @@
-<h1 align="left">Assylzhan Zharzhan (@zharzhanov) 👋</h1>
+<h1 align="left">Assylzhan Zharzhanov 👋</h1>
 
 - 💻 Stack: **Go, Python**. Mostly focused on Backend & DevOps.
 - 👨‍💻 Linkedin: **@assylzhan-zharzhanov**
