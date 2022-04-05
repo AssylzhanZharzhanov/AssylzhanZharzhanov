@@ -2,7 +2,7 @@
 
 - 💻 Stack: **Go, Python**. Mostly focused on Backend & DevOps.
 - 👨‍💻 Linkedin: **@assylzhan-zharzhanov**
-- 📸 Instagram: **@zharzhanov**
+<!-- - 📸 Instagram: **@zharzhanov** -->
 <!-- - ❤️ Fall in love with: **@dearbissalina** -->
 
 <!--
