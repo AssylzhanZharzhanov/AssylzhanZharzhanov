@@ -1,5 +1,7 @@
 <h1 align="left">Assylzhan Zharzhanov 👋</h1>
 
+[![Assylzhan Zharzhanov profile views](https://u8views.com/api/v1/github/profiles/16020572/views/day-week-month-total-count.svg)](https://u8views.com/github/AssylzhanZharzhanov)
+
 - 💻 Stack: **Golang, Python**.
 - 👨‍💻 Linkedin: **@assylzhan-zharzhanov**
 <!-- - 📸 Instagram: **@zharzhanov** -->
@@ -20,4 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Assylzhan Zharzhanov profile views](https://u8views.com/api/v1/github/profiles/16020572/views/day-week-month-total-count.svg)](https://u8views.com/github/AssylzhanZharzhanov)
