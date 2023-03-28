@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 -->
 
 [![Assylzhan Zharzhanov profile views](https://u8views.com/api/v1/github/profiles/16020572/views/day-week-month-total-count.svg)](https://u8views.com/github/AssylzhanZharzhanov)
-
-<a href="https://u8views.com/github/AssylzhanZharzhanov"><img src="https://u8views.com/api/v1/github/profiles/16020572/views/day-week-month-total-count.svg"></a>
